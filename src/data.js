@@ -6,7 +6,7 @@ export const site = {
   whatsapp: "https://wa.me/919993595840",
   email: "support.applianceexpert@gmail.com",
   address: "Vijay Nagar, Indore",
-  hours: "8 AM – 9 PM, every day",
+  hours: "7 AM – 9 AM, every day",
   tagline:
     "Doorstep repair in Indore for air conditioners, refrigerators, washing machines, microwaves, and LED TVs. We check the fault at home and tell you the cost before any work starts.",
   whyIntro: "One local team for the appliances that keep an Indore home running.",
@@ -18,7 +18,7 @@ export const site = {
     { title: "Cost before work", body: "After a look at the appliance, you hear what is wrong and what it will take to fix it. Work starts only after you agree." },
     { title: "Parts you can see", body: "If a part needs changing, it is shown and named first. Nothing is fitted quietly in the background." },
     { title: "Five appliances, one call", body: "Cooling, laundry, kitchen ovens, and LED screens are booked on the same number." },
-    { title: "Daytime and evening slots", body: "Visits run from morning until 9 PM, including Sunday, so a working household can still book." },
+    { title: "Morning slots", body: "Visits run from 7 AM to 9 AM, including Sunday." },
     { title: "Same fault, call us back", body: "If the problem we just repaired shows up again soon after the visit, phone the same number and we will look at it again." },
   ],
   aboutPoints: [
